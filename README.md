@@ -2,7 +2,7 @@
 Project developed during the course [Building Android/iOS/Web Apps with Flutter - 5 courses in 1](https://www.udemy.com/course/curso-completo-flutter-app-android-ios/), available on [Udemy](https://www.udemy.com/) by instructor Daniel Ciolfi.
 
 ### Result
-| ![](/demo/1.jpeg) | ![](/demo/2.jpeg) | ![](/demo/3.jpeg) |
+| ![](/demo/1.png) | ![](/demo/2.png) | ![](/demo/3.png) |
 |--|--|--|
 
 ### Technologies
