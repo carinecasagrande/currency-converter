@@ -15,5 +15,5 @@ Project developed during the course [Building Android/iOS/Web Apps with Flutter 
   </a>
 </div>
 
-### Starting
+## Starting
 To test this project you need to have Flutter installed. After that, open the main folder, run the command `flutter pub get` to download the packages and run it with the simulator of your choice. For more information, see the official [Flutter documentation](https://flutter.dev/).
